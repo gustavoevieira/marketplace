@@ -1,0 +1,35 @@
+{
+    "name": "marketplace-produtos-digitais",
+    "version": "1.0.0",
+    "description": "Marketplace minimalista e inovador para produtos digitais.",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "keywords": ["marketplace", "produtos-digitais", "react", "design-tecnológico"],
+    "author": "Gustavo Eudes Vieira",
+    "license": "MIT",
+    "dependencies": {
+      "@emotion/react": "^11.11.0",
+      "@emotion/styled": "^11.11.0",
+      "@mui/icons-material": "^5.14.4",
+      "@mui/material": "^5.14.4",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.17.0",
+      "react-scripts": "5.0.1",
+      "prop-types": "^15.8.1"
+    },
+    "devDependencies": {
+      "eslint": "^8.55.0",
+      "eslint-plugin-react": "^7.33.2"
+    },
+    "engines": {
+      "node": ">=16.0.0",
+      "npm": ">=7.0.0"
+    }
+  }
+  

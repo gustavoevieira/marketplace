@@ -1,0 +1,36 @@
+.checkout-container {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .payment-options button {
+    background-color: #4caf50;
+    color: white;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .payment-options button:hover {
+    background-color: #388e3c;
+  }
+  
+  .confirmation {
+    margin-top: 2rem;
+  }
+  
+  .confirm-button {
+    background-color: #2196f3;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .confirm-button:hover {
+    background-color: #1976d2;
+  }
+  
